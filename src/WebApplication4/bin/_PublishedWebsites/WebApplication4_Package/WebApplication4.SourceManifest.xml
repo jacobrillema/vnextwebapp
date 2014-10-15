@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\jrillema\AppData\Local\Temp\AspNetPublish\PackageTemp\WebApplication4-89\wwwroot\" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\jrillema\AppData\Local\Temp\AspNetPublish\PackageTemp\WebApplication4-89\wwwroot\" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\jrillema\AppData\Local\Temp\AspNetPublish\PackageTemp\WebApplication4-89\wwwroot\" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

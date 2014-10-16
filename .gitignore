@@ -147,6 +147,7 @@ csx/
 AppPackages/
 
 # Others
+*.jmconfig
 sql/
 *.Cache
 ClientBin/
